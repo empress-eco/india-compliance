@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
-</div>
+
 
 India Compliance is a tool designed to simplify compliance with Indian business regulations, making it a must-have for any operation in India. It integrates with GST APIs to streamline regular compliance processes, providing a seamless experience for users.
 
@@ -10,6 +10,8 @@ India Compliance is a tool designed to simplify compliance with Indian business 
     <a href="https://github.com/empress-eco/india-compliance/issues">Report Bug</a>
     ·
     <a href="https://github.com/empress-eco/india-compliance/issues">Request Feature</a>
+</div>
+
 </div>
 
 ## Key Features
